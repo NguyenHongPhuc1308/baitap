@@ -1,0 +1,43 @@
+/*tạo class selector 'tam*/
+.tam{
+    padding: 4em;
+    color: blue;
+    margin: 5em;
+    text-align: justify;
+    background-color: yellow;
+
+    border-top-color: chocolate ;
+    border-bottom-color: darkblue;
+    border-left-color: darkgreen ;
+    border-right-color: darkorchid;
+
+    border-top-style: groove;
+    border-bottom-style: double;
+    border-left-style: dashed;
+    border-right-style: outset;
+
+    border-top-width: 5px;
+    border-bottom-width: 6px;
+    border-left-width: 8px;
+    border-right-width: thick;
+}
+    
+.hau{
+    margin: 5em;
+    color: chartreuse;
+    text-align: justify;
+    background-color: brown;
+}
+
+.phuc{
+    padding: 4em;
+    color: crimson;
+    background-color: black;
+    text-align: justify;
+    border: yellow inset thick;
+}
+
+.small-pic{
+    width: 20%;
+    padding: 2em;
+}

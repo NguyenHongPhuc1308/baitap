@@ -1,0 +1,39 @@
+.main{
+    width: 80%;
+    margin: auto;
+    margin-top: 10px;
+    background-color: orange;
+}
+span{
+    font-family: cursive;
+    font-size: 2rem;
+    padding-left:  2rem;
+}
+
+#menu{
+    background-color: black;
+    color: palevioletred;
+    font-family: cursive;
+    font-weight: bold;
+}
+a{
+    color: yellow;
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding: 5px 10px;
+}
+
+section img{
+    width: 60%;
+    display: block;
+    margin: auto;
+}
+
+footer{
+    padding: 10px;
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;
+    background-color: darkkhaki;
+    color: black;
+}
